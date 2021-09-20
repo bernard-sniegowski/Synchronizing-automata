@@ -32,6 +32,6 @@ The description of each function can be found in the comments in _main.hs_ file
       * It also means that there are 4 states in our automata
     * Size of the alphabet is the number of lines
 * IF AUTOMATA is synchornizing
- * Result (synchornizing word) is given as a sequence of digits (0 to 9)
+  * Result (synchornizing word) is given as a sequence of digits (0 to 9)
 * ELSE
- * Algorithm prints message "Autmaton not synchronizing"
+  * Algorithm prints message "Autmaton not synchronizing"
