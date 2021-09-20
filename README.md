@@ -1,5 +1,5 @@
 # Synchronizing-automata
-An implementation of algorithm that finds the shortest synchornizing word for a given automata
+An implementation of algorithm that finds the shortest synchornizing word (if possible) for a given automata
 
 For more information read
 
